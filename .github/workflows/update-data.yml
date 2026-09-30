@@ -1,4 +1,4 @@
-﻿name: Actualizar indicadores y feriados
+name: Actualizar indicadores y feriados
 on:
   schedule:
     - cron: "0 12 * * *" # diario, 09:00 hora Chile aprox.
